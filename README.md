@@ -1,4 +1,4 @@
-# GIT REMOTE
+# Git remote
 
 Luke, I am your father !
 
